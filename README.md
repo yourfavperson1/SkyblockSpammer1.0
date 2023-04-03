@@ -1,6 +1,7 @@
 Skyblock Spammer is used spam in hypixel skyblock hub
 
 **what it offers**:
+
 it auto send messages in hub
 it changes hub after each msg
 auto accepts party
